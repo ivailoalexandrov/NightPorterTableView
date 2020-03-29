@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		889792112431171A0020A68D /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 889792102431171A0020A68D /* Task.swift */; };
 		88A6807323DF17010044294B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88A6807223DF17010044294B /* AppDelegate.swift */; };
 		88A6807523DF17010044294B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88A6807423DF17010044294B /* SceneDelegate.swift */; };
 		88A6807723DF17010044294B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88A6807623DF17010044294B /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		889792102431171A0020A68D /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		88A6806F23DF17010044294B /* Night Porter Table View.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Night Porter Table View.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		88A6807223DF17010044294B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		88A6807423DF17010044294B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				88A6807423DF17010044294B /* SceneDelegate.swift */,
 				88A6807623DF17010044294B /* ViewController.swift */,
 				88A6807823DF17010044294B /* Main.storyboard */,
+				889792102431171A0020A68D /* Task.swift */,
 				88A6807B23DF17030044294B /* Assets.xcassets */,
 				88A6807D23DF17030044294B /* LaunchScreen.storyboard */,
 				88A6808023DF17030044294B /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				889792112431171A0020A68D /* Task.swift in Sources */,
 				88A6807723DF17010044294B /* ViewController.swift in Sources */,
 				88A6807323DF17010044294B /* AppDelegate.swift in Sources */,
 				88A6807523DF17010044294B /* SceneDelegate.swift in Sources */,
