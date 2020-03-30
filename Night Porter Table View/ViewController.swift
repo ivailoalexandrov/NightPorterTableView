@@ -85,7 +85,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
             cell.accessoryType = .checkmark
         }
         else {
-            cell.textLabel?.textColor = UIColor.white
+            cell.textLabel?.textColor = UIColor.systemGreen
             cell.accessoryType = .none
         }
         
