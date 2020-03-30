@@ -85,7 +85,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
             cell.accessoryType = .checkmark
         }
         else {
-            cell.textLabel?.textColor = UIColor.black
+            cell.textLabel?.textColor = UIColor.white
             cell.accessoryType = .none
         }
         
@@ -141,7 +141,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
             view.backgroundColor = UIColor.darkGray
         }
         else {
-            view.backgroundColor = UIColor.white
+            view.backgroundColor = UIColor.systemBackground
         }
     }
     
