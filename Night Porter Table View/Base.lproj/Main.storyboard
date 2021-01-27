@@ -26,7 +26,7 @@
                                 </connections>
                             </tableView>
                             <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hcP-k6-r45">
-                                <rect key="frame" x="0.0" y="818" width="414" height="44"/>
+                                <rect key="frame" x="0.0" y="813" width="414" height="49"/>
                                 <items>
                                     <barButtonItem title="Reset List" id="KRy-Gx-tfw">
                                         <connections>
@@ -37,7 +37,7 @@
                                     <barButtonItem enabled="NO" title="Dark mode" id="ccE-3p-2eI"/>
                                     <barButtonItem style="plain" id="AgY-7U-bbh">
                                         <switch key="customView" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" id="YKo-mA-XvN">
-                                            <rect key="frame" x="343" y="6.5" width="51" height="31"/>
+                                            <rect key="frame" x="343" y="11.5" width="51" height="31"/>
                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             <color key="onTintColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                             <connections>
